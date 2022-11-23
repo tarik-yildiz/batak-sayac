@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">YAZBOZ</string>
+    <string name="istatistik">İSTATİSTİKLER</string>
+    <string name="oyunmodu">Oyun modu: </string>
+    <string name="tursayisi">Oynanan tur sayısı: </string>
+    <string name="kazananoyuncu">Kazanan oyuncu: </string>
+    <string name="enfazlabatan">En fazla batan oyuncu: </string>
+    <string name="enazbatan">En az batan oyuncu: </string>
+    <string name="enazpuanalan">En az puan alan oyuncu: </string>
+    <string name="puan">Puan: </string>
+    <string name="kazandigi_el_sayisi">Kazandığı el sayısı: </string>
+    <string name="battigi_el_sayisi">Battığı el sayısı: </string>
+
+
+</resources>
